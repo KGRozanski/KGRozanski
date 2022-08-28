@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgrozanski&layout=compact)](https://github.com/kgrozanski/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgrozanski&show_icons=true&theme=radical)
 
 
